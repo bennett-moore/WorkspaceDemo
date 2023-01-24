@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fdb8c5161b2c61105c97a601604bcbc9" extends="task" label="Demo Table" max_length="40" name="x_snc_workspace_bm_demo_table" type="collection"/>
+</database>
